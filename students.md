@@ -16,7 +16,7 @@ I am Enoch CHIU, I love running.
 
 [My Github account](https://github.com/EnochCHIU-polyu)
 
-[Include the link of you Github page here using the syntax shown above](https://enochchiu-polyu.github.io/my_git_page/)
+[My Github Page] (https://enochchiu-polyu.github.io/my_git_page/)
 =======
 ## Richard Lui
 hi i'm richard
