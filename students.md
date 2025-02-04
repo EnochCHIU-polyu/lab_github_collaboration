@@ -14,6 +14,6 @@
 ## CHIU Yee Lok
 I am Enoch CHIU, I love running.
 
-[My Github account](https://enochchiu-polyu.github.io/my_git_page/)
+[My Github account](https://github.com/EnochCHIU-polyu)
 
-[Include the link of you Github page here using the syntax shown above]
+[Include the link of you Github page here using the syntax shown above](https://enochchiu-polyu.github.io/my_git_page/)
